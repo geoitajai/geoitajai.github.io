@@ -1,6 +1,4 @@
-<img  src="assets/images/BRASAO_TITULO.svg"  alt="Brasão Itajaí-SC"  title="Itajaí-SC"  align="left"  height="90" />
-
-<hr>
+<img  src="assets/images/BRASAO_TITULO.svg"  alt="Brasão Itajaí-SC"  title="Itajaí-SC"  height="90" />
 
 Mapas
 -----
