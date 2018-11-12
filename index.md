@@ -17,6 +17,7 @@ Mapas
   - [Parques e Zonas de Amortecimento](https://geoitajai.github.io/sie/famai.html)
   
 ### Secretaria Municipal de Administração
+  - [Mapa equipamentos Urbanos](https://geoitajai.github.io/sie/sviario.html)
 
 ### Secretaria Municipal de Obras e Serviços Municipais
   - [Mapa Drenagem Pluvial](https://geoitajai.github.io/sie/seosemdrenagem.html)
