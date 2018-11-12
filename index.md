@@ -10,12 +10,13 @@ Mapas
   - [Planta Cadastral](https://geoitajai.github.io/geo/plantacadastral.html)
 
 ### Coordenadoria de Proteção e Defesa Civil
-
+  - [Mapa Inundações](https://geoitajai.github.io/sie/dcitajai.html)
 ### Fundação do Meio Ambiente de Itajaí
-
+  - [Parques e Zonas de Amortecimento](https://geoitajai.github.io/sie/famai.html)
 ### Secretaria Municipal de Administração
 
 ### Secretaria Municipal de Obras e Serviços Municipais
+  - [Mapa Drenagem Pluvial](https://geoitajai.github.io/sie/seosemdrenagem.html)
 
 Acesso aos arquivos
 -------------------
