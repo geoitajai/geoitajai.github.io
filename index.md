@@ -4,8 +4,10 @@ Mapas
 -----
 
 ### Secretaria Municipal de Urbanismo
-
+  - [Mapa Zoneamento](https://geoitajai.github.io/sie/zon215.html)
+    - [Lei complementar nº215/2015](http://leismunicipa.is/pfdkq)
 ### Secretaria Municipal da Fazenda
+  - [Planta Cadastral](https://geoitajai.github.io/geo/plantacadastral.html)
 
 ### Coordenadoria de Proteção e Defesa Civil
 
